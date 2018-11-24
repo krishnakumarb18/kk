@@ -1,0 +1,40 @@
+<h1> Login </h1>
+    
+    <table class="table">
+        <tr>
+            <td>
+                Username
+            </td>
+            <td>
+                <input type="text"/>
+            </td>
+
+        </tr>
+        <tr>
+            <td>
+                password
+            </td>
+            <td>
+                <input type="password"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                district
+            </td>
+            <td>
+                <select>
+                <option> ERNAKULAM </option>
+                <option> ALAPPUZHA </option>
+                <option> KOZHIKKODE </option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td> <button class=btn btn-warning> LOGIN </button></td>
+        </tr>
+    </table>
+    <h1> Go to register </h1>
+    
